@@ -336,7 +336,7 @@ print('*****8 start*****')
 set1 = {1, 2, 3, 4, 5}
 set2 = {2, 4, 6, 8}
 set3 = {1, 5, 9, 13, 17}
-set = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+set = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} #set of integers from 1 to 10
 
 #part a start
 set_part_a_difference_12 = set1.difference(set2)
