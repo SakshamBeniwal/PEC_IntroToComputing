@@ -12,7 +12,7 @@ print('*****1 start*****')
 text = str(input('enter a text: '))
 text = text.lower() #lowers the text so that words like 'name' and 'NAME' will be considered equal
 
-if ' ' not in text: #if there are no withespace, then it is single word, the following code is occurences for characters
+if ' ' not in text: #if there are no whitespace, then it is single word, the following code is occurences for characters
     single_word = list(text) #creates a list of characters in the single word entered
     count_characters = {}
 
